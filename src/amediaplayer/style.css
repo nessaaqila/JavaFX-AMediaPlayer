@@ -1,0 +1,30 @@
+
+#openButton {
+    -fx-background-image: url("../mediaButton/openButton.png");
+-fx-background-size: 25 25;
+-fx-background-repeat: no-repeat;
+-fx-background-position: center;
+-fx-background-color: transparent;
+}
+
+#playButton {
+    -fx-background-image: url("../mediaButton/playButton.png");
+-fx-background-size: 25 25;
+-fx-background-repeat: no-repeat;
+-fx-background-position: center;
+-fx-background-color: transparent;
+}
+#pauseButton {
+    -fx-background-image: url("../mediaButton/pauseButton.png");
+-fx-background-size: 25 25;
+-fx-background-repeat: no-repeat;
+-fx-background-position: center;
+-fx-background-color: transparent;
+}
+#stopButton {
+    -fx-background-image: url("../mediaButton/stopButton.png");
+-fx-background-size: 25 25;
+-fx-background-repeat: no-repeat;
+-fx-background-position: center;
+-fx-background-color: transparent;
+}
